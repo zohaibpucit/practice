@@ -1,7 +1,10 @@
 #include<iostream>
 #include<fstream>
 using namespace std;
-
+/*
+these are aditional changes i have mad 
+cuz i would download it to my computer
+*/
 class student
 {
     int id;
