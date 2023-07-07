@@ -7,7 +7,7 @@ cuz i would download it to my computer
 */
 class student
 {
-    int id;
+    int id=0;
     int cgpa;
 public:
 //these are changes that i have made
